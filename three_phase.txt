@@ -1,0 +1,4 @@
+# three phase voltage
+a : 1 : - b c
+b : -0.5 : - c a
+c : -0.5 : - a b
